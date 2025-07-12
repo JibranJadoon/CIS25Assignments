@@ -1,3 +1,0 @@
-1001,Albert Smith,92.400002
-1002,Jay James,81.699997
-1003,Sofia marqués,88.199997
