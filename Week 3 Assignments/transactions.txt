@@ -1,0 +1,3 @@
+Deposit: $200 | Balance: $200
+Purchase: $30 | Balance: $170
+Purchase: $50 | Balance: $120
